@@ -1,1 +1,2 @@
-123
+def driver:
+	pass
